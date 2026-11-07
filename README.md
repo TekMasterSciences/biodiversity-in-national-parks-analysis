@@ -93,5 +93,5 @@ Python, pandas, Matplotlib, Seaborn, Jupyter Notebook.
 4. Run the notebooks in order, from the `notebooks/` folder: `01-data-cleaning-and-preparation.ipynb`, then `02-exploratory-data-analysis.ipynb`.
 
 ## Data Source
-
+The CSV dataset was obtained from Codecademy as part of its learning materials. The dataset is used here for educational and portfolio purposes.
 <!-- Add the source and license of the original datasets here. -->
